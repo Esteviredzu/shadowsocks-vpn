@@ -1,0 +1,8 @@
+{
+	"server":"147.45.69.36",
+	"server_port":37258,
+	"local_port":1080,
+	"password":"pjZJdVsxSRNkUkU4bTXTQk",
+	"method":"chacha20-ietf-poly1305"
+	
+}
